@@ -40,5 +40,11 @@ Please refer to the json files to understand how it can be formatted.
 Please cite our work if you find it interesting or useful:
 
 ```
-@ ...
+@article{pomponi2020bayesian,
+  title={Bayesian Neural Networks With Maximum Mean Discrepancy Regularization},
+  author={Pomponi, Jary and Scardapane, Simone and Uncini, Aurelio},
+  journal={arXiv preprint arXiv:2003.00952},
+  year={2020}
+}
+
 ```
